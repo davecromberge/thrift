@@ -1,4 +1,7 @@
-# Thrift Erlang Software Library #
+Mirror of https://github.com/apache/thrift
+==========================================
+
+#Thrift Erlang Software Library #
 
 ## License ##
 
